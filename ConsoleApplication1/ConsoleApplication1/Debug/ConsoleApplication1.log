@@ -1,0 +1,19 @@
+﻿  소스.cpp
+c:\users\b407_29\desktop\407\consoleapplication1\consoleapplication1\소스.cpp(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\b407_29\desktop\407\consoleapplication1\consoleapplication1\소스.cpp(25): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' 선언을 참조하십시오.
+c:\users\b407_29\desktop\407\consoleapplication1\consoleapplication1\소스.cpp(48): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' 선언을 참조하십시오.
+c:\users\b407_29\desktop\407\consoleapplication1\consoleapplication1\소스.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\b407_29\desktop\407\consoleapplication1\consoleapplication1\소스.cpp(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\b407_29\desktop\407\consoleapplication1\consoleapplication1\소스.cpp(102): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\b407_29\desktop\407\consoleapplication1\consoleapplication1\소스.cpp(103): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\b407_29\desktop\407\consoleapplication1\consoleapplication1\소스.cpp(106): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  ConsoleApplication1.vcxproj -> C:\Users\B407_29\Desktop\407\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\B407_29\Desktop\407\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
