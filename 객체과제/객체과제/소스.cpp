@@ -2,7 +2,6 @@
 #include <string.h>
 #include <Windows.h>
 #include <conio.h>
-
 class Player
 {
 	char face[100];
@@ -23,9 +22,18 @@ public:
 		checkRange(screen_size);
 		strncpy(screen + pos, face, strlen(face));
 	}
-	void setDirection(Enemy *pEnemy) {
+	void setDirection(Enemy *pEnemy, int size) {
+		int num;
+		for (int i = 0;i < size; i++) {
+			if (pEnemy + i != nullptr) {
+				int num1 = pEnemy[i].getPosition() - pos;
+				if (num1 < 0) {
+					if (num > -num1)
+						num = num1;
+				}
 
-
+			}
+		}
 	}
 private:
 
@@ -88,6 +96,7 @@ public:
 		checkRange(screen_size);
 		screen[pos] = shape;
 	}
+	
 private:
 
 };
@@ -95,9 +104,10 @@ private:
 int main() {
 
 	const int screen_size = 119;
+	const int max_enemy = 5;
 	char screen[screen_size + 1 + 1];
 	Player player(20);
-	Enemy *enemy = new Enemy[5];
+	Enemy *enemy = new Enemy[max_enemy];
 	Bullet *pBullet[10] = {nullptr};
 	while (true) {
 		memset(screen, ' ', screen_size);
