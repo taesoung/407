@@ -1,36 +1,37 @@
 ﻿  소스.cpp
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(24): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(40): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' 선언을 참조하십시오.
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(52): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(65): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(92): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(104): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' 선언을 참조하십시오.
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(116): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(133): error C2228: '.draw' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
-  c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(133): note: 'Enemy *' 형식입니다.
-  c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(133): note: 대신 '->'을(를) 사용하려고 했습니까?
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(137): error C2228: '.getPosition' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
-  c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(137): note: 'Enemy *' 형식입니다.
-  c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(137): note: 대신 '->'을(를) 사용하려고 했습니까?
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(139): error C2228: '.OnHit' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
-  c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(139): note: 'Enemy *' 형식입니다.
-  c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(139): note: 대신 '->'을(를) 사용하려고 했습니까?
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(146): error C2664: 'void Bullet::update(const Player &,const Enemy &)': 인수 2을(를) 'Enemy *'에서 'const Enemy &'(으)로 변환할 수 없습니다.
-  c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(146): note: 원인: 'Enemy *'에서 'const Enemy'(으)로 변환할 수 없습니다.
-  c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(146): note: 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(150): error C2228: '.update' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
-  c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(150): note: 'Enemy *' 형식입니다.
-  c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(150): note: 대신 '->'을(를) 사용하려고 했습니까?
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(106): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(138): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(198): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(107): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(199): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
-c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(110): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(202): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\b407_24\desktop\407\객체과제\객체과제\소스.cpp(296): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  객체과제.vcxproj -> C:\Users\B407_24\Desktop\407\객체과제\Debug\객체과제.exe
+  객체과제.vcxproj -> C:\Users\B407_24\Desktop\407\객체과제\Debug\객체과제.pdb (Full PDB)
